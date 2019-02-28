@@ -1,3 +1,4 @@
+# A cipher solver I created for use on solving this month's Jane Street puzzle
 string = "TOURWTORTWRTZUPLEBEFADIEILOSUYSNIEAEAEACFMRVTRVTXRYUQSSPKNOLIOIGNIEADHDEAEACAEGDABEIGEHN…..????."
 
 choice = input("R for rail fence or C for columnar: ")
